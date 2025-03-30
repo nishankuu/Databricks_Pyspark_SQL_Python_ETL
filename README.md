@@ -13,24 +13,24 @@ The raw data was sourced from Cricsheet.org in YAML format and converted to CSV 
 ## Data Pipeline Architecture
 
 ### 1.Data Ingestion:
-Uploaded CSV files to AWS S3 using AWS CLI
-Files include:
-Ball_By_Ball.csv (detailed ball-by-ball records)
-Match.csv (match metadata and outcomes)
-Player.csv (player information)
-Player_match.csv (player performance by match)
+Uploaded CSV files to AWS S3 using AWS CLI\
+Files include:\
+Ball_By_Ball.csv (detailed ball-by-ball records)\
+Match.csv (match metadata and outcomes)\
+Player.csv (player information)\
+Player_match.csv (player performance by match)\
 Team.csv (team information)
 
 ### 2.Data Processing:
-Connected AWS S3 to Databricks workspace
-Created PySpark notebooks in Databricks Community Edition
-Implemented schema design and data validation
-Performed data cleaning and transformation
+Connected AWS S3 to Databricks workspace\
+Created PySpark notebooks in Databricks Community Edition\
+Implemented schema design and data validation\
+Performed data cleaning and transformation\
 
 ### 3.Analysis:
-Conducted exploratory data analysis using PySpark DataFrames
-Executed SQL queries for specific insights
-Created visualizations to uncover patterns and trends
+Conducted exploratory data analysis using PySpark DataFrames\
+Executed SQL queries for specific insights\
+Created visualizations to uncover patterns and trends\
 
 
 # Key Skills Demonstrated
