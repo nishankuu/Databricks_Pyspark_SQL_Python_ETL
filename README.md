@@ -45,6 +45,12 @@ SQL: Complex queries for cricket analytics\
 Python: Data analysis and visualization\
 ETL Pipeline Development: End-to-end data workflow implementation
 
+# Analysis to practise python visualisation
+## Matplotlib Graph (Code available in file)
+<img width="712" alt="Image" src="https://github.com/user-attachments/assets/d72d15fb-5882-4f89-9614-4342186a4f52" />
+
+## Seaborn Graph (Code available in file)
+<img width="712" alt="Image" src="https://github.com/user-attachments/assets/4476ecd2-ed6a-40b6-a39b-a73dbad37059" />
 
 
 
