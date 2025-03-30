@@ -25,12 +25,12 @@ Team.csv (team information)
 Connected AWS S3 to Databricks workspace\
 Created PySpark notebooks in Databricks Community Edition\
 Implemented schema design and data validation\
-Performed data cleaning and transformation\
+Performed data cleaning and transformation
 
 ### 3.Analysis:
 Conducted exploratory data analysis using PySpark DataFrames\
 Executed SQL queries for specific insights\
-Created visualizations to uncover patterns and trends\
+Created visualizations to uncover patterns and trends
 
 
 # Key Skills Demonstrated
